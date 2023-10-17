@@ -30,14 +30,14 @@ A[Model] -->B[paradigm]
     * 模型與程式實作、技術的相互影響，無法針對實際遇到的問題做調整，則會使得<b>工作效率極低</b>，ex. work around solution
 * 若程式設計師認為自己無須對模型負責，或不知道如何與程式相應，則兩者間就沒有任何關聯
 * 程式設計師 = 建模人員
-* 技術負責人協調 high-level 設計與建模、並協助 最困難或最關鍵的決策
+* 技術負責人協調『high-level 設計』與『建模』、並協助『最困難或最關鍵的決策』
 
 > Ubiquitous Langugae 為開發人員、領域專家和軟體品質之間傳遞訊息的渠道
 
 # R - Reflective (重視內在感受、反應)
 
 * C 語言不適合 Model-Driven Design?
-- 
+* 相關人員皆須了解或認識模型 
 
 # I - Interpretive (詮釋意義、價值、經驗)
 
@@ -47,4 +47,4 @@ A[Model] -->B[paradigm]
 # D - Decisional (找出決定、行動)
 
 * 大家須參與建模會議
-* 
+* 修改程式碼前須先調整模型
