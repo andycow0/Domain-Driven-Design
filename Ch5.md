@@ -12,8 +12,7 @@
     > 2. 其區別不是由【對使用者非常重要的屬性】決定的
     * 組成
         * Identity (memory reference? variable?)
-            * ex. Seat number
-            
+            * ex. Seat Id (賣票需劃位)
         * Attribute
             * 隨時間推移。發生改變
     * 特性
@@ -22,8 +21,7 @@
             * 【簡單約束】ex. unique key
         * 不可變 (immutable)
             * 以技術框架使其保持不變，或透過工程紀律約束
-    
-    
+* Value Object
 
 
 # R - Reflective (重視內在感受、反應)
